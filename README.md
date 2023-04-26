@@ -1,7 +1,5 @@
 <h3 align="center">Frontend developer</h3>
-https://cdn.dribbble.com/users/5950507/screenshots/15172610/media/3a55b2636de40cb3114a58cf7cc8d62d.gif
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rukiyeaydin" alt="rukiyeaydin" /></a> </p>
+<img align="right" alt="Coding" width="400" src="(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5950507/screenshots/15172610/media/3a55b2636de40cb3114a58cf7cc8d62d.gif">
 
 - 📫 How to reach me **rukiyeaydinlive@gmail.com**
 
