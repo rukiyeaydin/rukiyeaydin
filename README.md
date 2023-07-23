@@ -1,13 +1,8 @@
 <div align="center">
 
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA55D3&height=120&section=header"/>
-</a>
-
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Rukiye...;A+Front-end+developer&center=true&size=30&color=BA55D3&background=FFFFFF00">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Rukiye...;A+Front-end+developer&center=true&size=30&color=651FFF&background=FFFFFF00">
   </a>
 </h1>
 
@@ -20,7 +15,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rukiyeaydin&" alt="rukiyeaydin" /></p>
 
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA55D3&height=120&section=footer"/>
-</a>
+
 </div>
