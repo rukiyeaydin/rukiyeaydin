@@ -23,7 +23,7 @@
 
 
 <h3 align="center">Streak</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rukiyeaydin&theme=dracula" alt="rukiyeaydin" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rukiyeaydin&theme=dark" alt="rukiyeaydin" /></p>
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00B0FF&height=120&section=footer"/>
