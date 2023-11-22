@@ -4,7 +4,7 @@
 </a> -->
   
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Rukiye...;A+Front-end+developer&center=true&size=30&color=fe9600&background=FFFFFF00">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Rukiye...;A+Front-end+developer&center=true&size=30&color=64DD17&background=FFFFFF00">
 </a>
 
 <!--  <h3 align="center">Languages and Tools</h3>
@@ -23,7 +23,7 @@
 
 
 <!--   <h3 align="center">Streak</h3> -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rukiyeaydin&theme=dark" alt="rukiyeaydin" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rukiyeaydin&theme=merko" alt="rukiyeaydin" /></p>
 
 <!-- <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00B0FF&height=120&section=footer"/>
