@@ -16,4 +16,4 @@
 </p>
 
 <h3 align="center">Stars</h3>
-<p align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rukiyeaydin&theme=buefy" alt="rukiyeaydin" /></p>
+<p align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rukiyeaydin&theme=modern-lilac2" alt="rukiyeaydin" /></p>
